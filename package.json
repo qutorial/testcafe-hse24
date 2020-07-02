@@ -1,0 +1,7 @@
+{
+    "name": "hse24-de-test-cafe-tests",
+    "version": "1.0.0",
+    "devDependencies": {
+        "testcafe": "^1.8.7"
+    }
+}
